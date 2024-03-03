@@ -180,7 +180,7 @@ box-shadow:  -6px 6px 12px #661420,
   justify-content: center;
   flex-wrap: wrap;
   flex-grow: 1;
-  flex-basis: 300;
+  flex-basis: calc(50%-10px);
   row-gap: 20px;
   column-gap: 50px;
   list-style: none;
