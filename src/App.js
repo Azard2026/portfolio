@@ -97,7 +97,7 @@ function App() {
             <h1>AboutMe</h1>
 
             <p>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hello, I'm Noor Mohamed, a dedicated Full Stack Web Developer with a passion for crafting seamless and user-centric digital experiences. My journey into the world of web development began with a fascination for creating innovative solutions that blend both functionality and aesthetics. Armed with a solid foundation in front-end technologies such as HTML, CSS, and JavaScript, coupled with expertise in back-end development using frameworks like Node.js and Django, I strive to bring ideas to life through clean, efficient, and scalable code.
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hello, I'm Noor Mohamed, a dedicated Full Stack Web Developer with a passion for crafting seamless and user-centric digital experiences. My journey into the world of web development began with a fascination for creating innovative solutions that blend both functionality and aesthetics. Armed with a solid foundation in front-end technologies such as HTML, CSS, and JavaScript, coupled with expertise in back-end development using frameworks like Django, I strive to bring ideas to life through clean, efficient, and scalable code.
             </p>
             <button>
             <a href={noor} download>Download CV</a>
